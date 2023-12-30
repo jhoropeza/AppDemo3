@@ -11,3 +11,6 @@ feature-master 1er commit rebase
 feature-master 1er commit main
 feature-merge 1 commit
 feature-merge 2 commit
+
+feature-merge 1 squash commit
+feature-merge 2 squash commit
