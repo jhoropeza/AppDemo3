@@ -1,1 +1,2 @@
 Vamos a realizar el Merge con la rama Master
+Vamos a mandarlo al remote
