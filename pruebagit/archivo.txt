@@ -4,9 +4,8 @@ feature Jhonny
 feature-hazel 2 commit
 feature 3 commit
 feature 4 commit
-<<<<<<< HEAD
 feature-marina 1 commit
 featura-marina 2 commit
-=======
 feature-master 1er commit rebase
->>>>>>> 7320305 (1er commit rebase)
+
+feature-merge 1 commit
