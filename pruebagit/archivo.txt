@@ -16,9 +16,6 @@ feature-merge 1 squash commit
 feature-merge 2 squash commit
 
 git revert 3
-<<<<<<< HEAD
-
-git revert 9
 =======
 git revert 7
 
