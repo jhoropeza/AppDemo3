@@ -17,3 +17,5 @@ feature-merge 2 squash commit
 
 git revert 3
 git revert 7
+
+git revert 8
