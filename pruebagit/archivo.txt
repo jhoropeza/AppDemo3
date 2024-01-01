@@ -25,3 +25,4 @@ git revert 10 cambio
 git revert 11 cambio
 hola
 Stahing 1
+Stash 2
