@@ -23,3 +23,5 @@ git revert 8
 git revert 9 cambio
 git revert 10 cambio
 git revert 11 cambio
+hola
+Stahing 1
